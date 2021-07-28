@@ -1,0 +1,25 @@
+body{
+background-color: #9A9EAB ;
+}
+
+.heading{
+    width: 80%;
+    font-size: 22px;
+    font-family: cursive;
+    background-color:#c135ce;
+}
+
+#camera{
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+}
+.name_of_family,#result_family_name,#result_family_accuracy{
+    color: #df193a;
+}
+
+button{
+    width: 1200 ;
+    height: 30;
+    background-color : #DFE166;
+}
